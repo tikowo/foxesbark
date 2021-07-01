@@ -2,9 +2,39 @@
     <nav class="fox-nav bg-white flex">
       <SmallLeft/>
       <div class="w-full">
-        <div class="flex items-center justify-center">
+        <div class="flex flex-col items-center justify-center">
           <p>
-            aasjdklasjdk
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
+          </p>
+          <p>
+            #կուղբ
           </p>
         </div>
       </div>

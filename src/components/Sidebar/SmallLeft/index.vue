@@ -2,7 +2,6 @@
     <div class="fox-nav-small pt-3 bg-gray-900 overflow-auto">
         <Item title="A" :alert="true" :notification="1"/>
         <Item v-for="item in items" :key="item.id" :title="item.title" :alert="item.alert" @alert="item.alert = !item.alert"/>
-        
     </div>
 </template>
 
